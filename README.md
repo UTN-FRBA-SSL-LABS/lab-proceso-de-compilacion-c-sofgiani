@@ -7,6 +7,8 @@
 
 ---
 
+
+
 ## Antes de empezar: ¿Cómo funciona este laboratorio?
 
 Este laboratorio se entrega a través de **GitHub Classroom**. Al aceptar el assignment se te creó un repositorio personal en la organización de la materia con todos los archivos necesarios.
